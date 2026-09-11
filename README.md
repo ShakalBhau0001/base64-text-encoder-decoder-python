@@ -18,6 +18,7 @@ base64-text-encoder-decoder-python/
 ├── main.py             # Basic CLI application
 ├── interactive.py      # Rich CLI Version
 ├── requirements.txt    # Project Dependancies
+├── LICENSE             # Project license
 └── README.md           # Project documentation
 ```
 
@@ -211,10 +212,9 @@ For more advanced, security-focused CLI tools, check out:
 
 ## ⚠️ Disclaimer
 
-This project is intended for **educational and learning purposes only**.
+> This project is intended for **educational and learning purposes only**.
 
-Base64 is an **encoding scheme, not encryption** — it does not provide any
-confidentiality or security, and should never be used to protect sensitive data.
+> Base64 is an **encoding scheme, not encryption** — _it does not provide any confidentiality or security, and should never be used to protect sensitive data._
 
 ---
 
